@@ -32,9 +32,9 @@ This project is a **basic mockup** of a hero section designed for a lighting com
 - **Flexbox**: To ensure the layout adjusts efficiently to various screen sizes.
 
 ## Demostración 🎥 / Demo 🎥
-Podés ver una demostración del proyecto visitando el siguiente enlace: [Hero para Empresa de Iluminación](#)
+Podés ver una demostración del proyecto visitando el siguiente enlace: [Hero para Empresa de Iluminación](https://josecondori-ai.github.io/Empresa-de-Iluminaci-n/)
 
-You can view the project demo by visiting the following link: [Hero Section for Lighting Company](#)
+You can view the project demo by visiting the following link: [Hero Section for Lighting Company](https://josecondori-ai.github.io/Empresa-de-Iluminaci-n/)
 
 ## Cómo Usar 🖥️ / How to Use 🖥️
 ```bash
